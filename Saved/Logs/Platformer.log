@@ -1273,3 +1273,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-07.56.40:907][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
 [2021.04.28-07.56.40:971][503]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2021.04.28-07.56.44:750][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.04.28-07.57.43:048][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.28-07.57.43:854][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.28-07.57.52:617][150]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/BP_MyDamager.BP_MyDamager
+[2021.04.28-07.58.53:994][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.28-07.59.20:700][543]Cmd: DELETE
+[2021.04.28-07.59.20:701][543]Cmd: ACTOR DELETE
+[2021.04.28-07.59.20:709][543]LogEditorActor: Deleted Actor: BP_Block_C
+[2021.04.28-07.59.20:821][543]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2021.04.28-07.59.20:827][543]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2021.04.28-07.59.23:608][608]LogEditorViewport: Clicking on Actor (LMB): BP_Block_C (Block11)
+[2021.04.28-08.00.32:541][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.04.28-08.00.32:566][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Maps/Level_1" FILE="../../../../../../Unreal projects/SpaceManGame/Content/__MyContent/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.28-08.00.32:629][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.28-08.00.32:659][774]LogSavePackage: Moving '../../../../../../Unreal projects/SpaceManGame/Saved/Level_1F41CCED64434357522777B90E5E5F65B.tmp' to '../../../../../../Unreal projects/SpaceManGame/Content/__MyContent/Maps/Level_1.umap'
+[2021.04.28-08.00.32:670][774]LogFileHelpers: Saving map 'Level_1' took 0.104
+[2021.04.28-08.00.32:671][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/BP_MyDamager" FILE="../../../../../../Unreal projects/SpaceManGame/Content/__MyContent/Blueprints/BP_MyDamager.uasset" SILENT=true
+[2021.04.28-08.00.32:706][774]LogSavePackage: Moving '../../../../../../Unreal projects/SpaceManGame/Saved/BP_MyDamagerBF7B26D14EE7799572DF95B5F3A1040D.tmp' to '../../../../../../Unreal projects/SpaceManGame/Content/__MyContent/Blueprints/BP_MyDamager.uasset'
+[2021.04.28-08.00.32:725][774]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-08.00.32:726][774]LogContentValidation: Display: Validating Blueprint /Game/__MyContent/Blueprints/BP_MyDamager.BP_MyDamager
+[2021.04.28-08.00.32:726][774]LogContentValidation: Display: Validating World /Game/__MyContent/Maps/Level_1.Level_1
